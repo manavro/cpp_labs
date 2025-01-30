@@ -1,0 +1,4 @@
+/home/vyaz1ch/Документы/hello-cpp/week-8/task1/CMakeFiles/stack.dir
+/home/vyaz1ch/Документы/hello-cpp/week-8/task1/CMakeFiles/main.dir
+/home/vyaz1ch/Документы/hello-cpp/week-8/task1/CMakeFiles/edit_cache.dir
+/home/vyaz1ch/Документы/hello-cpp/week-8/task1/CMakeFiles/rebuild_cache.dir
